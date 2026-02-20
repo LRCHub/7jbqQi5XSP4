@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Tere Bin",
+  "base_artist": "Atif Aslam",
+  "createdAt": "2026-02-20T14:37:38.959830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tere Bin",
+      "artist": "Rabbi Shergill",
+      "has_synced": true,
+      "path": "select/01_Tere_Bin_Rabbi_Shergill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tere Bin",
+      "artist": "Atif Aslam",
+      "has_synced": true,
+      "path": "select/02_Tere_Bin_Atif_Aslam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tere Bin Laage",
+      "artist": "Rashmeet Kaur",
+      "has_synced": true,
+      "path": "select/03_Tere_Bin_Laage_Rashmeet_Kaur.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tere Bin",
+      "artist": "Master Saleem",
+      "has_synced": false,
+      "path": "select/04_Tere_Bin_Master_Saleem.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tere Bin - Jhankar",
+      "artist": "Atif Aslam",
+      "has_synced": false,
+      "path": "select/05_Tere_Bin_-_Jhankar_Atif_Aslam.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tere Bin Ho Na Sakega Gujara",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/06_Tere_Bin_Ho_Na_Sakega_Gujara_KK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "008 Tere Bin Ho Na Sakega Guj",
+      "artist": "K.K.",
+      "has_synced": true,
+      "path": "select/07_008_Tere_Bin_Ho_Na_Sakega_Guj_K.K..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tere Bin",
+      "artist": "Atif Aslam",
+      "has_synced": true,
+      "path": "select/08_Tere_Bin_Atif_Aslam.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bin Tere (Remix)",
+      "artist": "Shafqat Amanat Ali feat. Sunidhi Chauhan",
+      "has_synced": false,
+      "path": "select/09_Bin_Tere_(Remix)_Shafqat_Amanat_Ali_feat._Sunidhi_Chauhan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bin Tere - Reprise",
+      "artist": "Shekhar Ravjiani feat. Vishal-Shekhar",
+      "has_synced": true,
+      "path": "select/10_Bin_Tere_-_Reprise_Shekhar_Ravjiani_feat._Vishal-Shekhar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bin Tere - Reprise",
+      "artist": "Shekhar Ravjiani",
+      "has_synced": true,
+      "path": "select/11_Bin_Tere_-_Reprise_Shekhar_Ravjiani.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rehnaa Hai Tere Dil Mein",
+      "artist": "Sonu Niigaam & Kavita Krishnamurthy",
+      "has_synced": false,
+      "path": "select/12_Rehnaa_Hai_Tere_Dil_Mein_Sonu_Niigaam_&_Kavita_Krishnamurthy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rehnaa Hai Tere Dil Mein",
+      "artist": "Sonu Nigam & Kavita Krishnamurthy",
+      "has_synced": false,
+      "path": "select/13_Rehnaa_Hai_Tere_Dil_Mein_Sonu_Nigam_&_Kavita_Krishnamurthy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Saaton Janam Main Tere - Jhankar Beats",
+      "artist": "Kumar Sanu feat. Alka Yagnik",
+      "has_synced": false,
+      "path": "select/14_Saaton_Janam_Main_Tere_-_Jhankar_Beats_Kumar_Sanu_feat._Alka_Yagnik.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sang Hoon Tere",
+      "artist": "Nikhil D’Souza",
+      "has_synced": true,
+      "path": "select/15_Sang_Hoon_Tere_Nikhil_D’Souza.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tere Bina Jiya Jaye Naa",
+      "artist": "Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/16_Tere_Bina_Jiya_Jaye_Naa_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tere Chehre Mein Woh Jadoo Hai (From \"Dharmatma\")",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/17_Tere_Chehre_Mein_Woh_Jadoo_Hai_(From__Dharmatma_)_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tere Chehre Men Woh Jadoo Hai",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/18_Tere_Chehre_Men_Woh_Jadoo_Hai_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tere Chehre Men Woh Jadoo Hai",
+      "artist": "Kalyanji-Anandji",
+      "has_synced": false,
+      "path": "select/19_Tere_Chehre_Men_Woh_Jadoo_Hai_Kalyanji-Anandji.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Tere Chehre Pe (Jhankar Beats)",
+      "artist": "Kumar Sanu feat. Sonali Vajpai",
+      "has_synced": true,
+      "path": "select/20_Tere_Chehre_Pe_(Jhankar_Beats)_Kumar_Sanu_feat._Sonali_Vajpai.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Tere Dard Se Dil - Jhankar Beats",
+      "artist": "Kumar Sanu",
+      "has_synced": true,
+      "path": "select/21_Tere_Dard_Se_Dil_-_Jhankar_Beats_Kumar_Sanu.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Tere Dard Se",
+      "artist": "Kumar Sanu",
+      "has_synced": true,
+      "path": "select/22_Tere_Dard_Se_Kumar_Sanu.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+      "artist": "Pritam feat. Arijit Singh & Shilpa Rao",
+      "has_synced": true,
+      "path": "select/23_Tere_Hawaale_(From__Laal_Singh_Chaddha_)_Pritam_feat._Arijit_Singh_&_Shilpa_Rao.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Tere Hawaale",
+      "artist": "Arijit Singh & Shilpa Rao",
+      "has_synced": true,
+      "path": "select/24_Tere_Hawaale_Arijit_Singh_&_Shilpa_Rao.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Tere Khushboo Mein Base Khat",
+      "artist": "Jagjit Singh",
+      "has_synced": false,
+      "path": "select/25_Tere_Khushboo_Mein_Base_Khat_Jagjit_Singh.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Tere liye - Remix",
+      "artist": "Lata Mangeshkar, Roop Kumar Rathod",
+      "has_synced": true,
+      "path": "select/26_Tere_liye_-_Remix_Lata_Mangeshkar,_Roop_Kumar_Rathod.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Tere Liye",
+      "artist": "Lata Mangeshkar & Roop Kumar Rathod",
+      "has_synced": true,
+      "path": "select/27_Tere_Liye_Lata_Mangeshkar_&_Roop_Kumar_Rathod.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Tere Mere Milan Ki Yeh Raina",
+      "artist": "Lata Mangeshkar feat. Kishore Kumar",
+      "has_synced": false,
+      "path": "select/28_Tere_Mere_Milan_Ki_Yeh_Raina_Lata_Mangeshkar_feat._Kishore_Kumar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tere Bin",
+      "artist": "Atif Aslam",
+      "has_synced": false,
+      "path": "select/pl_01_Tere_Bin_Atif_Aslam.txt"
+    }
+  ]
+}
